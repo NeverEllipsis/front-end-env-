@@ -8,7 +8,7 @@
   },
   "author": "zhuchengkang.zck",
   "publishConfig": {
-    "registry": "https://github.com/NeverEllipsis/front-end-tools.git"
+    "registry": "https://registry.npmjs.org/"
   },
   "license": "ISC"
 }
