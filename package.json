@@ -1,0 +1,14 @@
+{
+  "name": "front-end-tools-zck",
+  "version": "1.0.1",
+  "description": "Documenting the Setup and Installation of Commonly Used Frontend Development Environments or Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhuchengkang.zck",
+  "publishConfig": {
+    "registry": "https://github.com/NeverEllipsis/front-end-tools.git"
+  },
+  "license": "ISC"
+}
